@@ -5,7 +5,7 @@ object For_Loop {
     for(i<- 1 to 5){
       println("i is using to " + i)
     }
-    for (i<- 1.until(6)){
+    for (i<- 1.until(7)){
       println("i is using until " + i);
     }
   }
